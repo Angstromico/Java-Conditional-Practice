@@ -1,5 +1,19 @@
 # Java Conditionals & Loops Practice
 
+```
+  ____     _      ____       _      ____    ____    _____ 
+ |  _ \   | |    |  _ \     | |    |  _ \  |  _ \  | ____|
+ | |_) |  | |    | |_) |    | |    | |_) | | |_) | | |_  
+ |  _ <   | |    |  _ <     | |    |  _ <  |  _ <  | |_   
+ |_| \_\  |_|    |_| \_\    |_|    |_| \_\ |_| \_\ |_____|
+                                                          
+   ____                  _      ____    ____    _____ 
+  / ___|   _   _  _ __  | |_   |  _ \  |  _ \  | ____|
+ | |  | | | | | || '__| | __|  | |_) | | |_) | | |_  
+ | |__| | | |_| || |   | |_   |  _ <  |  _ <  | |_   
+  \____| |_____||_|   |_|    |_| \_\ |_| \_\ |_____|
+```
+
 A repository for practicing conditional logic, loops, and interactive Java applications as part of the Udemy course "Java Masterclass 2025: 130+ Hours of Expert Lessons".
 
 ## Topics Covered
